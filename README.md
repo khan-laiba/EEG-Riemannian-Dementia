@@ -1,5 +1,5 @@
-# A Hybrid EEG Biomarker from Riemannian Geometry and Spectral Analysis for Dementia Diagnosis and Cognitive Assessment
-Laiba Khan, Lexington High School, Lexington, MA, USA
+# Hybrid EEG Biomarker Fusing Riemannian Geometry and Spectral features for Dementia Diagnosis and Severity Assessment
+Laiba Khan, Neuroscience Mentorship Program, Neuroscience Mentorship Program, Lexington, MA, USA
 
 
 This project implements a machine learning pipeline to analyze resting-state EEG data for the diagnosis of dementia and the assessment of cognitive decline. It uses a hybrid feature engineering approach, combining functional connectivity features derived from Riemannian geometry with traditional spectral power ratios. The analysis is performed on a subject-level basis to ensure robust and clinically relevant results.
